@@ -6,6 +6,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=the-evolver&layout=compact))**
 *![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=the-evolver&hide=javascript,html)*
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=the-evolver&repo=https-github.com-the-evolver)](https://github.com/yourusername/https-github.com-the-evolver)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=the-evolver&repo=https-github.com-the-evolver&show_owner=true)](https://github.com/the-evolver/https-github.com-the-evolver)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://ibb.co/Qv6R0ns)
+
+![GitHub Logo](/images/jpg)
+Format: ![Alt Text](https://google.com)
